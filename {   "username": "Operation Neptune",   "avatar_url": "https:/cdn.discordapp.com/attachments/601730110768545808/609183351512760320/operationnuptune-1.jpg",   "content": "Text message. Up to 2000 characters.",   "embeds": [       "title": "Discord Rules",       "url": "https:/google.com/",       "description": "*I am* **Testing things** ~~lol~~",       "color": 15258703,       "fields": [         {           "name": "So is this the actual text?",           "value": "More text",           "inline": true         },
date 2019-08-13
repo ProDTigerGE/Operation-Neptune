@@ -1,0 +1,15 @@
+{
+  "username": "Operation Neptune",
+  "avatar_url": "https://cdn.discordapp.com/attachments/601730110768545808/609183351512760320/operationnuptune-1.jpg",
+  "content": "Text message. Up to 2000 characters.",
+  "embeds": [
+      "title": "Discord Rules",
+      "url": "https://google.com/",
+      "description": "*I am* **Testing things** ~~lol~~",
+      "color": 15258703,
+      "fields": [
+        {
+          "name": "So is this the actual text?",
+          "value": "More text",
+          "inline": true
+        },
